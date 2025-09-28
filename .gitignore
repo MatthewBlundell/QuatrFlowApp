@@ -1,0 +1,8 @@
+*.log
+build/
+/temp
+**/*.tmp
+!.keep
+Design/
+node_modules/
+.env
